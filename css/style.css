@@ -7,3 +7,11 @@
 #london{
     background: pink;
 }
+span{
+    padding: 5px,5px
+    border solid
+}
+
+html{
+        scroll-behavior: smooth;
+}
